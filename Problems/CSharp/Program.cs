@@ -11,6 +11,8 @@ public static class Program
         //Console.WriteLine(Problem005.Execute());
         //Console.WriteLine(Problem006.Execute());
         //Console.WriteLine(Problem007.Execute());
-        Console.WriteLine(Problem008.Execute());
+        //Console.WriteLine(Problem008.Execute());
+        Console.WriteLine(Problem009.Execute());
+        Console.WriteLine(Problem010.Execute());
     }
 }
